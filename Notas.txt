@@ -1,0 +1,12 @@
+En la clase de la seccion 2 de la semana 9 que corresponderia a mi 10 estamos viendo los diferentes
+sistemas de integracion. 
+
+ALgunos son
+WSO2
+IBM Message Broker
+MassTransit
+esb.Net
+nservicebus
+Fioriano
+
+En mi clase de las 10 vimos eso y vimos lo de Web Forms con el login de usuario
